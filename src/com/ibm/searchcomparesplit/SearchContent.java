@@ -11,8 +11,9 @@ public class SearchContent {
 
 	static File folderpath =new File("C:\\Users\\IBM_ADMIN\\IBM\\rationalsdp\\workspace\\SWC_IM_Dev_DSS");
 	///DSS_Production
-	///ODS_Production
-	static String code ="AVG_SALE_PRICE_REF";
+	///ODS_Production //V_JPN_CNTRY_PRICE
+	//V_RPT_FCT_PRICE
+	static String code ="V_RPT_FCT_PRICE";
 	
 	public static void main(String[] args) {
     
